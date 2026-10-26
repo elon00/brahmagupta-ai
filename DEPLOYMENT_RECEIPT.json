@@ -1,0 +1,14 @@
+{
+  "project": "brahmagupta-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "G6SDNwoiAHnDuvZoLDZb7YtHFP2LTWuchd2vyacQdKFP",
+  "vault_account": "3WBZ5kod4KwtZqswnxT4czLTg9nVCy3C6ud1e1X73yRF",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "3FND5L81FmWwcsAJi6nJuC9G2GFzVCMA37TJ3wJVptye6bqcBAgSStKhDquo6uQK6tedm4jZwzduFhbJMrqt1xDd",
+  "account_tx": "42YUSavrcSRXusedjLE229KtVywD83YkYdknLdZgcCfLhWHiTNu6p5tjuVABRZfwBKPxHSkqhhaa4FW3ttCuGe5w",
+  "mint_tx": "4v1k6s7bLMAYvBga8qDXyTrSdahdBS9WKZ4vPz3FpstfSwzHVbAuQ9gyANPRrbj1MaXbh67bTLxZa4kCT9kSTjtF",
+  "solana_explorer_mint": "https://explorer.solana.com/address/G6SDNwoiAHnDuvZoLDZb7YtHFP2LTWuchd2vyacQdKFP?cluster=devnet",
+  "timestamp": "2026-10-26 16:23:20 UTC"
+}
